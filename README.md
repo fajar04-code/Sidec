@@ -1,0 +1,2 @@
+# Sidec
+Aplikasi Presensi Sekolah
